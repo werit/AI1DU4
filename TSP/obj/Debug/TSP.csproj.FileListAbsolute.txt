@@ -1,0 +1,14 @@
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\bin\Debug\Kora.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\bin\Debug\PowerCollections.xml
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.TreeSolver.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.Form1.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.Properties.Resources.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.csproj.CopyComplete
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.pdb

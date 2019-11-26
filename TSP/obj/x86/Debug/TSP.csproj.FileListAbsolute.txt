@@ -1,0 +1,58 @@
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.Form1.resources
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.Properties.Resources.resources
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\bin\Debug\TSP.exe
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\bin\Debug\TSP.pdb
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.exe
+c:\documents and settings\ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.pdb
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.TreeSolver.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.Drawing.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.SASPlan.KnowledgeVisualizerForm.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\obj\x86\Debug\TSP.SASPlan.TreeVisualizerForm.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.Drawing.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.SASPlan.KnowledgeVisualizerForm.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.SASPlan.TreeVisualizerForm.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.TreeSolver.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.Form1.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.Properties.Resources.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.csproj.GenerateResource.Cache
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\Kora.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\PowerCollections.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\Kora.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Debug\PowerCollections.xml
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.exe
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.pdb
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.TreeSolver.resources
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.Form1.resources
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.Properties.Resources.resources
+C:\Users\student\Downloads\TSP\TSP\obj\x86\Debug\TSP.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\student\Downloads\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\student\Downloads\TSP\TSP\bin\Debug\Kora.pdb
+C:\Users\student\Downloads\TSP\TSP\bin\Debug\PowerCollections.xml
+C:\Users\Ota\Desktop\TSP\TSP\obj\x86\Debug\TSP.exe
+C:\Users\Ota\Desktop\TSP\TSP\obj\x86\Debug\TSP.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\bin\Debug\Kora.pdb
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\bin\Debug\PowerCollections.xml
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.TreeSolver.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.Form1.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.Properties.Resources.resources
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.csproj.GenerateResource.Cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.exe
+C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\TSP\TSP\obj\x86\Debug\TSP.pdb

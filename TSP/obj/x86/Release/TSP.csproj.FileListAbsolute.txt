@@ -1,0 +1,33 @@
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.TreeSolver.resources
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.Form1.resources
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.Properties.Resources.resources
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\bin\Release\TSP.exe
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\bin\Release\TSP.pdb
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.exe
+C:\Documents and Settings\Ota\dokumenty\visual studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.TreeSolver.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.Form1.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.Properties.Resources.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.csproj.GenerateResource.Cache
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\TSP.exe
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\TSP.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.SASPlan.KnowledgeVisualizerForm.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\obj\x86\Release\TSP.SASPlan.TreeVisualizerForm.resources
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.Drawing.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.SASPlan.KnowledgeVisualizerForm.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\obj\x86\Release\TSP.SASPlan.TreeVisualizerForm.resources
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.Drawing.dll
+C:\Documents and Settings\Ota\Dokumenty\Visual Studio 2010\Projects\TSP\TSP\bin\Release\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\Kora.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\PowerCollections.dll
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\Kora.pdb
+C:\Users\Ota\Documents\Visual Studio 2013\Projects\TSP\TSP\bin\Release\PowerCollections.xml
