@@ -131,7 +131,7 @@ namespace TSP
             return sol;
         }
     }
-
+// treat as individual
     class PermutationStandard : IntegerSequenceCandidateSolution<TSPInput>
     {
         public int size;
@@ -183,7 +183,7 @@ namespace TSP
                 data[i + 1] = sol.getSuccessor(data[i], data[i - 1]);
             }
         }
-
+//This is fitness
         public override double Evaluate()
         {
             double totalDistance = 0;
@@ -209,7 +209,7 @@ namespace TSP
             return PermutationStandardFactory.GetInstance();
         }
     }
-
+// tu sa da priamo jednobodovo krizit...plus su tu inverzie
     class PermutationInversions : IntegerSequenceCandidateSolution<TSPInput>
     {
         public int size;

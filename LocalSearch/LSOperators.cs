@@ -11,6 +11,7 @@ namespace LocalSearch
         T Apply(P problem);
     }
 
+    //mutation
     public interface LSUnaryOperator<T, P> where T : CandidateSolution<P> where P : LocalSearchProblem
     {
         T Apply(T candidateSolution);
@@ -19,7 +20,7 @@ namespace LocalSearch
 
         IEnumerable<T> GenerateNeighbourhood(T candidateSolution);
     }
-
+//crossop
     public interface LSBinaryOperator<T, P> where T : CandidateSolution<P> where P : LocalSearchProblem
     {
         T Apply(T candidateSolution1, T candidateSolution2);

@@ -12,3 +12,18 @@ C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.cspro
 C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.csproj.CopyComplete
 C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.exe
 C:\Users\Trunda_Otakar\Desktop\skola\cvikoUI1\my_TSP\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\LocalSearch.exe
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\LocalSearch.pdb
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\bin\Debug\LocalSearch.exe.config
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.TreeSolver.resources
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.Form1.resources
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.Properties.Resources.resources
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.csproj.CopyComplete
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Werit\Desktop\Current work\2019-2020\AI1\DU\Du4\TSP\TSP\obj\Debug\TSP.pdb
