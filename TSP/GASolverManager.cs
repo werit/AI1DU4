@@ -55,7 +55,6 @@ namespace TSP
         private LSBinaryOperator<T, P> xoverOperator;
         private LSUnaryOperator<T, P> mutationOperator;
         private LSNullaryOperator<T, P> initializationOperator;
-        private const int GaRunRepeats = 20;
         private const int PopulationSize= 100;
 
         public GaSolver(Random random,LSNullaryOperator<T, P> initializationOperator, XoverOperator<PermutationStandard, TSPInput,PermutationStandardFactory> xoverOperator, SimpleSwapOperator<PermutationStandard, TSPInput, PermutationStandardFactory> mutationOperator)
@@ -75,68 +74,47 @@ namespace TSP
         //private double currentBestVal = 0;
         public T Solve(P input, Action<T, int> onImprovementCallback = null)
         {
-            for (var j = 0; j < GaRunRepeats; j++)
+            currentBestVal = 0;
+            var population = initialize(input).ToList();
+            //current = initialize(input);
+            
+            while (!stop)
             {
-                T currentInRun = null;
-                currentBestVal = -1;
-                var population = initialize(input).ToList();
-                //current = initialize(input);
-
-                while (!stop)
+                steps++;
+                //goOneStep();
+                //var currentVal = current.Evaluate();
+                
+                var popualtionFitness = population.Select(ind => 1/ind.Evaluate()).ToList();
+                var bestIndivValue = popualtionFitness.Max();
+                var bestIndiv = population[popualtionFitness.IndexOf(bestIndivValue)];
+                if (bestIndivValue > currentBestVal)
                 {
-                    steps++;
-                    //goOneStep();
-                    //var currentVal = current.Evaluate();
-
-                    var popualtionFitness = population.Select(ind => 1 / ind.Evaluate()).ToList();
-                    var bestIndivValue = popualtionFitness.Max();
-                    var bestIndiv = population[popualtionFitness.IndexOf(bestIndivValue)];
-                    if (bestIndivValue > currentBestVal)
-                    {
-                        currentBestVal = bestIndivValue;
-                        currentInRun = bestIndiv;
-                        if (current == null)
-                        {
-                            current = currentInRun;
-                        }else
-                        {
-                            if (bestIndivValue > current.Evaluate())
-                            {
-                                current = currentInRun;
-                            }
-                            else
-                            {
-                                continue;
-                            }
-                        }
-                        onImprovementCallback?.Invoke(bestIndiv, steps);
-                        
-                    }
-
-                    var tempPopSum = popualtionFitness.Sum();
-                    var populationPorbabilityDistribution = popualtionFitness.Select(x => x / tempPopSum).ToList();
-                    var individualSplittingPoints = new List<double>(populationPorbabilityDistribution.Count);
-                    individualSplittingPoints.Add(populationPorbabilityDistribution[0]);
-                    for (var i = 1; i < populationPorbabilityDistribution.Count; i++)
-                    {
-                        individualSplittingPoints.Add(individualSplittingPoints[i - 1] +
-                                                      populationPorbabilityDistribution[i]);
-                    }
-
-                    var getXoverPairs = Enumerable.Range(0, population.Count).Select(x => (
-                        first: GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble()),
-                        second: GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble())));
-
-                    //var indexOfParent = GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble());
-                    var newGeneration = getXoverPairs.Select(pair =>
-                        xoverOperator.Apply(population[pair.first], population[pair.second])).ToList();
-                    //var newIndiv = xoverOperator.Apply(population[0], population[1]);
-                    //var a = mutationOperator.Apply(population.First());
-                    var newPopulation = newGeneration.Select(ind =>
-                        random.NextDouble() > MutationThreshold ? mutationOperator.Apply(ind) : ind).ToList();
-                    population = newPopulation;
-                    stop = !(steps < 800);
+                    onImprovementCallback?.Invoke(bestIndiv, steps);
+                    currentBestVal = bestIndivValue;
+                    current = bestIndiv;
                 }
+                var tempPopSum = popualtionFitness.Sum();
+                var populationPorbabilityDistribution = popualtionFitness.Select(x => x / tempPopSum).ToList();
+                var individualSplittingPoints = new List<double>(populationPorbabilityDistribution.Count);
+                individualSplittingPoints.Add(populationPorbabilityDistribution[0]);
+                for (var i = 1; i < populationPorbabilityDistribution.Count; i++)
+                {
+                    individualSplittingPoints.Add(individualSplittingPoints[i - 1] + populationPorbabilityDistribution[i]);
+                }
+
+                var getXoverPairs = Enumerable.Range(0, population.Count).Select(x => (
+                    first: GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble()),
+                    second: GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble())));
+                
+                //var indexOfParent = GetIndexOfNextGreater(individualSplittingPoints, random.NextDouble());
+                var newGeneration = getXoverPairs.Select(pair =>
+                    xoverOperator.Apply(population[pair.first], population[pair.second])).ToList();
+                //var newIndiv = xoverOperator.Apply(population[0], population[1]);
+                //var a = mutationOperator.Apply(population.First());
+                var newPopulation = newGeneration.Select(ind =>
+                    random.NextDouble() > MutationThreshold ? mutationOperator.Apply(ind) : ind).ToList();
+                population = newPopulation;
+                stop = !(steps<1000);
             }
             return current;
         }
@@ -152,10 +130,7 @@ namespace TSP
 
             return index;
         }
-        private void reset()
-        {
-            
-        }
+
     }
     
 
