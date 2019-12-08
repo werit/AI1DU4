@@ -138,13 +138,13 @@ namespace TSP
                         vis.draw(solution, false);
                         return;
 					case 7:
-                        /*
-						TSPSolver so = new GASolver(vis, r);
+                        
+                        GASolverManager so = new GASolverManager(vis, r);
 						solution = so.solve(inp);
 						solution.computeDistance();
 						Length_label.Text = solution.totalDistance.ToString();
 						vis.draw(solution);
-                        */
+                        
 						return;
 
 				}

@@ -104,6 +104,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GASolverManager.cs" />
     <Compile Include="GreedySolver.cs" />
     <Compile Include="OptimalSolver.cs" />
     <Compile Include="Program.cs" />
